@@ -86,7 +86,7 @@ a:hover {
     margin-left: 150px;
     width: 100%;
     height: 100vh;
-/*     background-image: url('/assets/images/capa.png'); */
+    background-image: url('/assets/images/capa.png');
     background-size: cover;
     background-position: center;
 
